@@ -1,7 +1,7 @@
 # Developer Workspaces Panel
 ## Developing with Docker
 
-Hardy Pottinger
+Kate Lynch
 
 Senior Application Developer, University of Pennsylvania Libraries
 
