@@ -41,7 +41,7 @@ Senior Application Developer, University of Pennsylvania Libraries
 # Docker for development
 
 * Not a VM replacement
-  * "Before, we were doing everything manually"
+  * ~~"Before, we were doing everything manually"~~
 
 * Faster setup for shared applications
 
