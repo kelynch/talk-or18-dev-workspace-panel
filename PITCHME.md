@@ -21,6 +21,9 @@ Senior Application Developer, University of Pennsylvania Libraries
   * Dockerfile - code file to build Docker images
   * docker-compose - tool for defining and deploying multi-container applications
 
+---
+## Docker for development
+
 * Reducing toil by automating repetitive operations tasks
 * Greater parity
 
