@@ -48,3 +48,10 @@ Senior Application Developer, University of Pennsylvania Libraries
 * Enforces reproducibility
   * Greatly reduces inconsistency
   * Narrows focus in troubleshooting
+
+---
+## Thank you!
+
+@fa[twitter] @katelynch
+
+@fa[envelope] katherly@upenn.edu
