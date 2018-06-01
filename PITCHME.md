@@ -10,7 +10,7 @@ Senior Application Developer, University of Pennsylvania Libraries
 @fa[envelope] katherly@upenn.edu
 
 ---
-# Docker for development
+## Docker for development
 
 * Dockerized services as shared components
 
@@ -18,27 +18,27 @@ Senior Application Developer, University of Pennsylvania Libraries
 * Greater parity
 
 ---
-# Example: DPLA harvesting workflow
+## Example: DPLA harvesting workflow
 
 ![DPLA workflow chart](assets/images/dpla_workflow.png)
 
 ---
-# Example: Services in isolation
+## Example: Services in isolation
 
 ![Omeka services chart](assets/images/omeka_services.png)
 
 ---
-# Example: Services in isolation
+## Example: Services in isolation
 
 ![Colenda services chart](assets/images/colenda_services.png)
 
 ---
-# Video: Docker IN ACTION!
+## Video: Docker IN ACTION!
 
 ![Video](https://www.youtube.com/embed/EKwz0VnjmFI)
 
 ---
-# Docker for development
+## Docker for development
 
 * Not a VM replacement
   * ~~"Before, we were doing everything manually"~~
