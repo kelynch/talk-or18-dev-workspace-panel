@@ -35,7 +35,7 @@ Senior Application Developer, University of Pennsylvania Libraries
 ---
 # Video: Docker IN ACTION!
 
-![Video](https://www.youtube.com/watch?v=EKwz0VnjmFI)
+![Video](https://www.youtube.com/embed/EKwz0VnjmFI)
 
 ---
 # Docker for development
