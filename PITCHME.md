@@ -14,6 +14,13 @@ Senior Application Developer, University of Pennsylvania Libraries
 
 * Dockerized services as shared components
 
+* Terminology:
+  * Docker - software automation platform
+  * Image - snapshot of an application that can be consistently deployed
+  * Container - An instance of a Docker image
+  * Dockerfile - code file to build Docker images
+  * docker-compose - tool for defining and deploying multi-container applications
+
 * Reducing toil by automating repetitive operations tasks
 * Greater parity
 
