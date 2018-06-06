@@ -31,7 +31,7 @@ Senior Application Developer, University of Pennsylvania Libraries
 ## Example: DPLA harvesting workflow
 
 ![DPLA workflow chart](assets/images/dpla_workflow.png)
-[https://github.com/kelynch/docker-omeka_a11y](https://github.com/kelynch/docker-omeka_a11y)
+[https://github.com/kelynch/omeka_classic](https://github.com/kelynch/omeka_classic)
 
 ---
 ## Example: Services in isolation
